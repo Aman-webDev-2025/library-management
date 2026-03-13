@@ -1,0 +1,27 @@
+{
+  "name": "03.library-management",
+  "version": "1.0.0",
+  "description": "liberary management system",
+  "homepage": "https://github.com/Aman-webDev-2025/library-management#readme",
+  "bugs": {
+    "url": "https://github.com/Aman-webDev-2025/library-management/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman-webDev-2025/library-management.git"
+  },
+  "license": "ISC",
+  "author": "Aman kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
