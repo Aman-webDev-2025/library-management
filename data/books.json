@@ -1,0 +1,20 @@
+{
+    "books":[
+        {
+        "id": "1",
+        "name": "hobbit",
+        "author": "aman",
+        "genre": "fantasy",
+        "price": "15",
+        "publisher": "dbysyn"
+    },
+    {
+        "id": "2",
+        "name": "english",
+        "author": "kumar",
+        "genre": "horror",
+        "price": "13",
+        "publisher": "rf2hrbfi2"
+    }
+]
+}

@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "id": "1",
+            "name": "rahul",
+            "email": "rahul@gmail.com",
+            "issuedBook": "1",
+            "issuedDate": "05/02/2022",
+            "returnDate": "05/03/2022",
+            "subscriptionType": "premium",
+            "subscriptionDate": "05/02/2022"
+        },
+        {
+            "id": "2",
+            "name": "rohan",
+            "email": "rohan@gmail.com",
+            "issuedBook": "2",
+            "issuedDate": "12/02/2022",
+            "returnDate": "12/03/2022",
+            "subscriptionType": "basic",
+            "subscriptionDate": "12/02/2022"
+        }
+    ]
+}

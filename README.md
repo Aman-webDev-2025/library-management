@@ -10,7 +10,7 @@
 
 ## /users/{id}
     GET: get user by their id
-    POST: update users by their id
+    PUT: update users by their id
     DELETE: delete users by their id (check if user still issue book) and (is any fine to collect)
 
 ## /users/subscription-details/{id}
@@ -47,3 +47,5 @@
     npm init
     npm i express
     npm i nodemon --save-dev
+
+    npm run dev
